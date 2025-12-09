@@ -1,0 +1,13 @@
+{
+  "name": "code-generator",
+  "version": "1.0.0",
+  "description": "Code Generator Tool by L8ab Systems",
+  "main": "src/generator.js",
+  "bin": {
+    "codegen": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "dependencies": {}
+}
