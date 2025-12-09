@@ -1,2 +1,15 @@
-# code-generator
-Professional code-generator by L8ab Systems
+# 💻 Code Generator
+
+Intelligent code generation tool.
+
+## Features
+- Template-based generation
+- Multi-language support
+- Custom templates
+- CLI and API interfaces
+- Plugin system
+- Integration with IDEs
+
+---
+
+**POWERED BY L8AB SYSTEMS** ⚡
