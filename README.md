@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/github/actions/workflow/status/L8ab/code-generator/ci.yml?branch=main) ![License](https://img.shields.io/github/license/L8ab/code-generator)
+
 # Code Generator
 
 A CLI tool for generating code from templates.
@@ -43,3 +45,7 @@ codegen mongodb-model Product src/models/Product.js
 ---
 
 **POWERED BY L8AB SYSTEMS**
+
+
+## Structure
+This repository is configured with enterprise standards, CI pipelines, and a structured codebase.
